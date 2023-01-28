@@ -1,5 +1,5 @@
 {
-    "name": "samshal/acl",
+    "name": "jiggabyte/acl",
     "description": "This package provides a lightweight and flexible access control list for privileges and permission management.",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Samshal",
             "email": "samueladeshina73@gmail.com"
+        },
+        {
+            "name": "Jiggabyte",
+            "email": "jigga.e10@gmail.com"
         }
     ],
     "require": {
@@ -14,7 +18,7 @@
     },
     "autoload":{
         "psr-4":{
-            "Samshal\\Acl\\":"./src"
+            "Jiggabyte\\Acl\\":"./src"
         }
     }
 }
